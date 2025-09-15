@@ -1,0 +1,5 @@
+{
+  "name": "AI Voice Cloner UI",
+  "description": "An interface for cloning a voice from an audio sample. Upload an audio file and provide text to generate speech in the target voice. This is a UI demonstration as the underlying AI model for voice cloning is not available in the Gemini API.",
+  "requestFramePermissions": []
+}
